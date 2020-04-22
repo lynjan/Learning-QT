@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/DFCardPrinterTool.ico</file>
+        <file>image/doc-open.ico</file>
+    </qresource>
+</RCC>
